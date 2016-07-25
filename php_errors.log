@@ -1,0 +1,1112 @@
+[06-Jul-2016 15:11:47 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 7
+[06-Jul-2016 15:11:47 UTC] PHP Stack trace:
+[06-Jul-2016 15:11:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[06-Jul-2016 15:11:47 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[06-Jul-2016 15:11:47 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[06-Jul-2016 15:11:47 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[06-Jul-2016 15:11:47 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:11:47 UTC] PHP   6. ProjectsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:12:19 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 7
+[06-Jul-2016 15:12:19 UTC] PHP Stack trace:
+[06-Jul-2016 15:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[06-Jul-2016 15:12:19 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[06-Jul-2016 15:12:19 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[06-Jul-2016 15:12:19 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[06-Jul-2016 15:12:19 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:12:19 UTC] PHP   6. ProjectsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:13:14 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 7
+[06-Jul-2016 15:13:14 UTC] PHP Stack trace:
+[06-Jul-2016 15:13:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[06-Jul-2016 15:13:14 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[06-Jul-2016 15:13:14 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[06-Jul-2016 15:13:14 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[06-Jul-2016 15:13:14 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:13:14 UTC] PHP   6. ProjectsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:13:16 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 7
+[06-Jul-2016 15:13:16 UTC] PHP Stack trace:
+[06-Jul-2016 15:13:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[06-Jul-2016 15:13:16 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[06-Jul-2016 15:13:16 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[06-Jul-2016 15:13:16 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[06-Jul-2016 15:13:16 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:13:16 UTC] PHP   6. ProjectsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:13:17 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 7
+[06-Jul-2016 15:13:17 UTC] PHP Stack trace:
+[06-Jul-2016 15:13:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[06-Jul-2016 15:13:17 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[06-Jul-2016 15:13:17 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[06-Jul-2016 15:13:17 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[06-Jul-2016 15:13:17 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:13:17 UTC] PHP   6. ProjectsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:14:31 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 7
+[06-Jul-2016 15:14:31 UTC] PHP Stack trace:
+[06-Jul-2016 15:14:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[06-Jul-2016 15:14:31 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[06-Jul-2016 15:14:31 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[06-Jul-2016 15:14:31 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[06-Jul-2016 15:14:31 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:14:31 UTC] PHP   6. ProjectsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:15:15 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 7
+[06-Jul-2016 15:15:15 UTC] PHP Stack trace:
+[06-Jul-2016 15:15:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[06-Jul-2016 15:15:15 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[06-Jul-2016 15:15:15 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[06-Jul-2016 15:15:15 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[06-Jul-2016 15:15:15 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:15:15 UTC] PHP   6. ProjectsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:16:43 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 7
+[06-Jul-2016 15:16:43 UTC] PHP Stack trace:
+[06-Jul-2016 15:16:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[06-Jul-2016 15:16:43 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[06-Jul-2016 15:16:43 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[06-Jul-2016 15:16:43 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[06-Jul-2016 15:16:43 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:16:43 UTC] PHP   6. ProjectsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:17:29 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 7
+[06-Jul-2016 15:17:29 UTC] PHP Stack trace:
+[06-Jul-2016 15:17:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[06-Jul-2016 15:17:29 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[06-Jul-2016 15:17:29 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[06-Jul-2016 15:17:29 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[06-Jul-2016 15:17:29 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:17:29 UTC] PHP   6. ProjectsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:19:50 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 7
+[06-Jul-2016 15:19:50 UTC] PHP Stack trace:
+[06-Jul-2016 15:19:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[06-Jul-2016 15:19:50 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[06-Jul-2016 15:19:50 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[06-Jul-2016 15:19:50 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[06-Jul-2016 15:19:50 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[06-Jul-2016 15:19:50 UTC] PHP   6. ProjectsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[08-Jul-2016 16:51:43 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 4
+[08-Jul-2016 16:51:43 UTC] PHP Stack trace:
+[08-Jul-2016 16:51:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[08-Jul-2016 16:51:43 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[08-Jul-2016 16:51:43 UTC] PHP   3. Dispatcher->_getController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:158
+[08-Jul-2016 16:51:43 UTC] PHP   4. Dispatcher->_loadController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:235
+[08-Jul-2016 16:51:43 UTC] PHP   5. class_exists() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[08-Jul-2016 16:51:43 UTC] PHP   6. spl_autoload_call() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[08-Jul-2016 16:51:43 UTC] PHP   7. App::load() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[08-Jul-2016 16:52:53 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 4
+[08-Jul-2016 16:52:53 UTC] PHP Stack trace:
+[08-Jul-2016 16:52:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[08-Jul-2016 16:52:53 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[08-Jul-2016 16:52:53 UTC] PHP   3. Dispatcher->_getController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:158
+[08-Jul-2016 16:52:53 UTC] PHP   4. Dispatcher->_loadController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:235
+[08-Jul-2016 16:52:53 UTC] PHP   5. class_exists() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[08-Jul-2016 16:52:53 UTC] PHP   6. spl_autoload_call() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[08-Jul-2016 16:52:53 UTC] PHP   7. App::load() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[10-Jul-2016 08:04:52 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/cakephp/app/View/Projects/add.ctp on line 4
+[10-Jul-2016 08:04:52 UTC] PHP Stack trace:
+[10-Jul-2016 08:04:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[10-Jul-2016 08:04:52 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[10-Jul-2016 08:04:52 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[10-Jul-2016 08:04:52 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[10-Jul-2016 08:04:52 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[10-Jul-2016 08:04:52 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[10-Jul-2016 08:04:52 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[10-Jul-2016 08:04:55 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/cakephp/app/View/Projects/add.ctp on line 4
+[10-Jul-2016 08:04:55 UTC] PHP Stack trace:
+[10-Jul-2016 08:04:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[10-Jul-2016 08:04:55 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[10-Jul-2016 08:04:55 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[10-Jul-2016 08:04:55 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[10-Jul-2016 08:04:55 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[10-Jul-2016 08:04:55 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[10-Jul-2016 08:04:55 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[10-Jul-2016 08:04:58 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/cakephp/app/View/Projects/add.ctp on line 4
+[10-Jul-2016 08:04:58 UTC] PHP Stack trace:
+[10-Jul-2016 08:04:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[10-Jul-2016 08:04:58 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[10-Jul-2016 08:04:58 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[10-Jul-2016 08:04:58 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[10-Jul-2016 08:04:58 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[10-Jul-2016 08:04:58 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[10-Jul-2016 08:04:58 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[10-Jul-2016 15:54:07 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/cakephp/app/View/Projects/add.ctp on line 5
+[10-Jul-2016 15:54:07 UTC] PHP Stack trace:
+[10-Jul-2016 15:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[10-Jul-2016 15:54:07 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[10-Jul-2016 15:54:07 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[10-Jul-2016 15:54:07 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[10-Jul-2016 15:54:07 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[10-Jul-2016 15:54:07 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[10-Jul-2016 15:54:07 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[10-Jul-2016 15:56:56 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 39
+[10-Jul-2016 15:56:56 UTC] PHP Stack trace:
+[10-Jul-2016 15:56:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[10-Jul-2016 15:56:56 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[10-Jul-2016 15:56:56 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[10-Jul-2016 15:56:56 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[10-Jul-2016 15:56:56 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[10-Jul-2016 15:56:56 UTC] PHP   6. ProjectsController->add() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[10-Jul-2016 15:57:21 UTC] PHP Fatal error:  Call to a member function save() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/ProjectsController.php on line 40
+[10-Jul-2016 15:57:21 UTC] PHP Stack trace:
+[10-Jul-2016 15:57:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[10-Jul-2016 15:57:21 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[10-Jul-2016 15:57:21 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[10-Jul-2016 15:57:21 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[10-Jul-2016 15:57:21 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[10-Jul-2016 15:57:21 UTC] PHP   6. ProjectsController->add() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[11-Jul-2016 02:37:07 UTC] PHP Fatal error:  Call to a member function labelTag() on a non-object in /home/ubuntu/workspace/cakephp/app/View/Posts/add.ctp on line 5
+[11-Jul-2016 02:37:07 UTC] PHP Stack trace:
+[11-Jul-2016 02:37:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[11-Jul-2016 02:37:07 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[11-Jul-2016 02:37:07 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[11-Jul-2016 02:37:07 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[11-Jul-2016 02:37:07 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[11-Jul-2016 02:37:07 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[11-Jul-2016 02:37:07 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[11-Jul-2016 02:37:07 UTC] PHP   8. include() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:971
+[11-Jul-2016 02:39:54 UTC] PHP Fatal error:  Call to a member function file() on a non-object in /home/ubuntu/workspace/cakephp/app/View/Posts/add.ctp on line 6
+[11-Jul-2016 02:39:54 UTC] PHP Stack trace:
+[11-Jul-2016 02:39:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[11-Jul-2016 02:39:54 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[11-Jul-2016 02:39:54 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[11-Jul-2016 02:39:54 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[11-Jul-2016 02:39:54 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[11-Jul-2016 02:39:54 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[11-Jul-2016 02:39:54 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[11-Jul-2016 02:39:54 UTC] PHP   8. include() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:971
+[11-Jul-2016 02:40:11 UTC] PHP Fatal error:  Call to a member function file() on a non-object in /home/ubuntu/workspace/cakephp/app/View/Posts/add.ctp on line 6
+[11-Jul-2016 02:40:11 UTC] PHP Stack trace:
+[11-Jul-2016 02:40:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[11-Jul-2016 02:40:11 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[11-Jul-2016 02:40:11 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[11-Jul-2016 02:40:11 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[11-Jul-2016 02:40:11 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[11-Jul-2016 02:40:11 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[11-Jul-2016 02:40:11 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[11-Jul-2016 02:40:11 UTC] PHP   8. include() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:971
+[11-Jul-2016 02:56:07 UTC] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/cakephp/lib/Cake/View/Helper/FormHelper.php on line 378
+[11-Jul-2016 02:56:07 UTC] PHP Stack trace:
+[11-Jul-2016 02:56:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[11-Jul-2016 02:56:07 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[11-Jul-2016 02:56:07 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[11-Jul-2016 02:56:07 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[11-Jul-2016 02:56:07 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[11-Jul-2016 02:56:07 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[11-Jul-2016 02:56:07 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[11-Jul-2016 02:56:07 UTC] PHP   8. include() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:971
+[11-Jul-2016 02:56:07 UTC] PHP   9. FormHelper->create() /home/ubuntu/workspace/cakephp/app/View/Posts/add.ctp:3
+[11-Jul-2016 02:56:50 UTC] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/cakephp/lib/Cake/View/Helper/FormHelper.php on line 378
+[11-Jul-2016 02:56:50 UTC] PHP Stack trace:
+[11-Jul-2016 02:56:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[11-Jul-2016 02:56:50 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[11-Jul-2016 02:56:50 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[11-Jul-2016 02:56:50 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[11-Jul-2016 02:56:50 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[11-Jul-2016 02:56:50 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[11-Jul-2016 02:56:50 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[11-Jul-2016 02:56:50 UTC] PHP   8. include() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:971
+[11-Jul-2016 02:56:50 UTC] PHP   9. FormHelper->create() /home/ubuntu/workspace/cakephp/app/View/Posts/add.ctp:3
+[11-Jul-2016 02:58:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/cakephp/app/View/Posts/add.ctp on line 5
+[11-Jul-2016 02:58:55 UTC] PHP Stack trace:
+[11-Jul-2016 02:58:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[11-Jul-2016 02:58:55 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[11-Jul-2016 02:58:55 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[11-Jul-2016 02:58:55 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[11-Jul-2016 02:58:55 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[11-Jul-2016 02:58:55 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[11-Jul-2016 02:58:55 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[11-Jul-2016 03:09:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/cakephp/app/View/Posts/view.ctp on line 7
+[11-Jul-2016 03:09:27 UTC] PHP Stack trace:
+[11-Jul-2016 03:09:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[11-Jul-2016 03:09:27 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[11-Jul-2016 03:09:27 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[11-Jul-2016 03:09:27 UTC] PHP   4. Controller->render() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:200
+[11-Jul-2016 03:09:27 UTC] PHP   5. View->render() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:963
+[11-Jul-2016 03:09:27 UTC] PHP   6. View->_render() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:473
+[11-Jul-2016 03:09:27 UTC] PHP   7. View->_evaluate() /home/ubuntu/workspace/cakephp/lib/Cake/View/View.php:933
+[12-Jul-2016 03:05:18 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/UsersController.php on line 9
+[12-Jul-2016 03:05:18 UTC] PHP Stack trace:
+[12-Jul-2016 03:05:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[12-Jul-2016 03:05:18 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[12-Jul-2016 03:05:18 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[12-Jul-2016 03:05:18 UTC] PHP   4. Controller->startupProcess() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:189
+[12-Jul-2016 03:05:18 UTC] PHP   5. CakeEventManager->dispatch() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:677
+[12-Jul-2016 03:05:18 UTC] PHP   6. call_user_func:{/home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243}() /home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243
+[12-Jul-2016 03:05:18 UTC] PHP   7. UsersController->beforeFilter() /home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243
+[13-Jul-2016 04:23:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 26
+[13-Jul-2016 04:23:47 UTC] PHP Stack trace:
+[13-Jul-2016 04:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[13-Jul-2016 04:23:47 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[13-Jul-2016 04:23:47 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[13-Jul-2016 04:23:47 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[13-Jul-2016 04:23:47 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[13-Jul-2016 04:23:47 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[13-Jul-2016 09:19:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 21
+[13-Jul-2016 09:19:49 UTC] PHP Stack trace:
+[13-Jul-2016 09:19:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[13-Jul-2016 09:19:49 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[13-Jul-2016 09:19:49 UTC] PHP   3. Dispatcher->_getController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:158
+[13-Jul-2016 09:19:49 UTC] PHP   4. Dispatcher->_loadController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:235
+[13-Jul-2016 09:19:49 UTC] PHP   5. class_exists() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 09:19:49 UTC] PHP   6. spl_autoload_call() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 09:19:49 UTC] PHP   7. App::load() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 12:43:20 UTC] PHP Fatal error:  Class declarations may not be nested in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 26
+[13-Jul-2016 12:43:20 UTC] PHP Stack trace:
+[13-Jul-2016 12:43:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[13-Jul-2016 12:43:20 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[13-Jul-2016 12:43:20 UTC] PHP   3. Dispatcher->_getController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:158
+[13-Jul-2016 12:43:20 UTC] PHP   4. Dispatcher->_loadController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:235
+[13-Jul-2016 12:43:20 UTC] PHP   5. class_exists() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 12:43:20 UTC] PHP   6. spl_autoload_call() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 12:43:20 UTC] PHP   7. App::load() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 12:43:40 UTC] PHP Fatal error:  Class declarations may not be nested in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 26
+[13-Jul-2016 12:43:40 UTC] PHP Stack trace:
+[13-Jul-2016 12:43:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[13-Jul-2016 12:43:40 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[13-Jul-2016 12:43:40 UTC] PHP   3. Dispatcher->_getController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:158
+[13-Jul-2016 12:43:40 UTC] PHP   4. Dispatcher->_loadController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:235
+[13-Jul-2016 12:43:40 UTC] PHP   5. class_exists() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 12:43:40 UTC] PHP   6. spl_autoload_call() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 12:43:40 UTC] PHP   7. App::load() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 12:48:41 UTC] PHP Fatal error:  Undefined class constant 'all' in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 24
+[13-Jul-2016 12:48:41 UTC] PHP Stack trace:
+[13-Jul-2016 12:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[13-Jul-2016 12:48:41 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[13-Jul-2016 12:48:41 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[13-Jul-2016 12:48:41 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[13-Jul-2016 12:48:41 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[13-Jul-2016 12:48:41 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[13-Jul-2016 12:48:58 UTC] PHP Fatal error:  Call to undefined method Post::all() in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 24
+[13-Jul-2016 12:48:58 UTC] PHP Stack trace:
+[13-Jul-2016 12:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[13-Jul-2016 12:48:58 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[13-Jul-2016 12:48:58 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[13-Jul-2016 12:48:58 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[13-Jul-2016 12:48:58 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[13-Jul-2016 12:48:58 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[13-Jul-2016 14:12:15 UTC] PHP Parse error:  syntax error, unexpected 'like' (T_STRING) in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 22
+[13-Jul-2016 14:12:15 UTC] PHP Stack trace:
+[13-Jul-2016 14:12:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[13-Jul-2016 14:12:15 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[13-Jul-2016 14:12:15 UTC] PHP   3. Dispatcher->_getController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:158
+[13-Jul-2016 14:12:15 UTC] PHP   4. Dispatcher->_loadController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:235
+[13-Jul-2016 14:12:15 UTC] PHP   5. class_exists() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 14:12:15 UTC] PHP   6. spl_autoload_call() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[13-Jul-2016 14:12:15 UTC] PHP   7. App::load() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[14-Jul-2016 04:01:33 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 15
+[14-Jul-2016 04:01:33 UTC] PHP Stack trace:
+[14-Jul-2016 04:01:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 04:01:33 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 04:01:33 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 04:01:33 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 04:01:33 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:01:33 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:02:41 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 15
+[14-Jul-2016 04:02:41 UTC] PHP Stack trace:
+[14-Jul-2016 04:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 04:02:41 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 04:02:41 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 04:02:41 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 04:02:41 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:02:41 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:02:45 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 15
+[14-Jul-2016 04:02:45 UTC] PHP Stack trace:
+[14-Jul-2016 04:02:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 04:02:45 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 04:02:45 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 04:02:45 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 04:02:45 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:02:45 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:06:15 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 15
+[14-Jul-2016 04:06:15 UTC] PHP Stack trace:
+[14-Jul-2016 04:06:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 04:06:15 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 04:06:15 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 04:06:15 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 04:06:15 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:06:15 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:22:56 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 32
+[14-Jul-2016 04:22:56 UTC] PHP Stack trace:
+[14-Jul-2016 04:22:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 04:22:56 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 04:22:56 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 04:22:56 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 04:22:56 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:22:56 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:28:22 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 57
+[14-Jul-2016 04:28:22 UTC] PHP Stack trace:
+[14-Jul-2016 04:28:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 04:28:22 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 04:28:22 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 04:28:22 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 04:28:22 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:28:22 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:28:26 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 91
+[14-Jul-2016 04:28:26 UTC] PHP Stack trace:
+[14-Jul-2016 04:28:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 04:28:26 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 04:28:26 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 04:28:26 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 04:28:26 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 04:28:26 UTC] PHP   6. PostsController->edit() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:34:13 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 57
+[14-Jul-2016 05:34:13 UTC] PHP Stack trace:
+[14-Jul-2016 05:34:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 05:34:13 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 05:34:13 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 05:34:13 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 05:34:13 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:34:13 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:36:02 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 57
+[14-Jul-2016 05:36:02 UTC] PHP Stack trace:
+[14-Jul-2016 05:36:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 05:36:02 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 05:36:02 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 05:36:02 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 05:36:02 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:36:02 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:46:15 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 62
+[14-Jul-2016 05:46:15 UTC] PHP Stack trace:
+[14-Jul-2016 05:46:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 05:46:15 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 05:46:15 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 05:46:15 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 05:46:15 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:46:15 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:54:12 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 32
+[14-Jul-2016 05:54:12 UTC] PHP Stack trace:
+[14-Jul-2016 05:54:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 05:54:12 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 05:54:12 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 05:54:12 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 05:54:12 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:54:12 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:54:21 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 32
+[14-Jul-2016 05:54:21 UTC] PHP Stack trace:
+[14-Jul-2016 05:54:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 05:54:21 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 05:54:21 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 05:54:21 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 05:54:21 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:54:21 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:57:57 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 91
+[14-Jul-2016 05:57:57 UTC] PHP Stack trace:
+[14-Jul-2016 05:57:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 05:57:57 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 05:57:57 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 05:57:57 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 05:57:57 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 05:57:57 UTC] PHP   6. PostsController->edit() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 06:05:42 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 91
+[14-Jul-2016 06:05:42 UTC] PHP Stack trace:
+[14-Jul-2016 06:05:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 06:05:42 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 06:05:42 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 06:05:42 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 06:05:42 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 06:05:42 UTC] PHP   6. PostsController->edit() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 06:07:53 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 122
+[14-Jul-2016 06:07:53 UTC] PHP Stack trace:
+[14-Jul-2016 06:07:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 06:07:53 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 06:07:53 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 06:07:53 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 06:07:53 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 06:07:53 UTC] PHP   6. PostsController->delete() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 08:49:01 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 96
+[14-Jul-2016 08:49:01 UTC] PHP Stack trace:
+[14-Jul-2016 08:49:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 08:49:01 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 08:49:01 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 08:49:01 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 08:49:01 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 08:49:01 UTC] PHP   6. PostsController->edit() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 08:49:23 UTC] PHP Fatal error:  Call to a member function save() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 104
+[14-Jul-2016 08:49:23 UTC] PHP Stack trace:
+[14-Jul-2016 08:49:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 08:49:23 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 08:49:23 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 08:49:23 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 08:49:23 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 08:49:23 UTC] PHP   6. PostsController->edit() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 09:20:14 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 98
+[14-Jul-2016 09:20:14 UTC] PHP Stack trace:
+[14-Jul-2016 09:20:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 09:20:14 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 09:20:14 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 09:20:14 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 09:20:14 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 09:20:14 UTC] PHP   6. PostsController->edit() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 09:20:34 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 98
+[14-Jul-2016 09:20:34 UTC] PHP Stack trace:
+[14-Jul-2016 09:20:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 09:20:34 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 09:20:34 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 09:20:34 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 09:20:34 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 09:20:34 UTC] PHP   6. PostsController->edit() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 09:45:02 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 101
+[14-Jul-2016 09:45:02 UTC] PHP Stack trace:
+[14-Jul-2016 09:45:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 09:45:02 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 09:45:02 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 09:45:02 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 09:45:02 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 09:45:02 UTC] PHP   6. PostsController->edit() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 09:47:56 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 52
+[14-Jul-2016 09:47:56 UTC] PHP Stack trace:
+[14-Jul-2016 09:47:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 09:47:56 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 09:47:56 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 09:47:56 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 09:47:56 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 09:47:56 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 09:51:21 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 17
+[14-Jul-2016 09:51:21 UTC] PHP Stack trace:
+[14-Jul-2016 09:51:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 09:51:21 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 09:51:21 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 09:51:21 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 09:51:21 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 09:51:21 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 16:41:58 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 52
+[14-Jul-2016 16:41:58 UTC] PHP Stack trace:
+[14-Jul-2016 16:41:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 16:41:58 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 16:41:58 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 16:41:58 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 16:41:58 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 16:41:58 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 16:41:58 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 52
+[14-Jul-2016 16:41:58 UTC] PHP Stack trace:
+[14-Jul-2016 16:41:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 16:41:58 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 16:41:58 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 16:41:58 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 16:41:58 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 16:41:58 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 16:44:11 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 52
+[14-Jul-2016 16:44:11 UTC] PHP Stack trace:
+[14-Jul-2016 16:44:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 16:44:11 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 16:44:11 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 16:44:11 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 16:44:11 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 16:44:11 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 16:45:25 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 73
+[14-Jul-2016 16:45:25 UTC] PHP Stack trace:
+[14-Jul-2016 16:45:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 16:45:25 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 16:45:25 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 16:45:25 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 16:45:25 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 16:45:25 UTC] PHP   6. PostsController->add() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 16:46:53 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 132
+[14-Jul-2016 16:46:53 UTC] PHP Stack trace:
+[14-Jul-2016 16:46:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[14-Jul-2016 16:46:53 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[14-Jul-2016 16:46:53 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[14-Jul-2016 16:46:53 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[14-Jul-2016 16:46:53 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[14-Jul-2016 16:46:53 UTC] PHP   6. PostsController->delete() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 01:13:24 UTC] PHP Fatal error:  Cannot redeclare Post::$useTable in /home/ubuntu/workspace/cakephp/app/Model/Post.php on line 5
+[15-Jul-2016 01:13:24 UTC] PHP Stack trace:
+[15-Jul-2016 01:13:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[15-Jul-2016 01:13:24 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[15-Jul-2016 01:13:24 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[15-Jul-2016 01:13:24 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[15-Jul-2016 01:13:24 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 01:13:24 UTC] PHP   6. PostsController->index() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 01:13:24 UTC] PHP   7. Controller->__get() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:17
+[15-Jul-2016 01:13:24 UTC] PHP   8. Controller->__isset() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:406
+[15-Jul-2016 01:13:24 UTC] PHP   9. Controller->loadModel() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:368
+[15-Jul-2016 01:13:24 UTC] PHP  10. ClassRegistry::init() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:742
+[15-Jul-2016 01:13:24 UTC] PHP  11. class_exists() /home/ubuntu/workspace/cakephp/lib/Cake/Utility/ClassRegistry.php:146
+[15-Jul-2016 01:13:24 UTC] PHP  12. spl_autoload_call() /home/ubuntu/workspace/cakephp/lib/Cake/Utility/ClassRegistry.php:146
+[15-Jul-2016 01:13:24 UTC] PHP  13. App::load() /home/ubuntu/workspace/cakephp/lib/Cake/Utility/ClassRegistry.php:146
+[15-Jul-2016 02:31:58 UTC] PHP Fatal error:  Call to a member function findById() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 52
+[15-Jul-2016 02:31:58 UTC] PHP Stack trace:
+[15-Jul-2016 02:31:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[15-Jul-2016 02:31:58 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[15-Jul-2016 02:31:58 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[15-Jul-2016 02:31:58 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[15-Jul-2016 02:31:58 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 02:31:58 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 02:33:07 UTC] PHP Parse error:  syntax error, unexpected ''guestbook'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/cakephp/app/Model/Post.php on line 4
+[15-Jul-2016 02:33:07 UTC] PHP Stack trace:
+[15-Jul-2016 02:33:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[15-Jul-2016 02:33:07 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[15-Jul-2016 02:33:07 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[15-Jul-2016 02:33:07 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[15-Jul-2016 02:33:07 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 02:33:07 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 02:33:07 UTC] PHP   7. Controller->__get() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:52
+[15-Jul-2016 02:33:07 UTC] PHP   8. Controller->__isset() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:406
+[15-Jul-2016 02:33:07 UTC] PHP   9. Controller->loadModel() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:368
+[15-Jul-2016 02:33:07 UTC] PHP  10. ClassRegistry::init() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:742
+[15-Jul-2016 02:33:07 UTC] PHP  11. class_exists() /home/ubuntu/workspace/cakephp/lib/Cake/Utility/ClassRegistry.php:146
+[15-Jul-2016 02:33:07 UTC] PHP  12. spl_autoload_call() /home/ubuntu/workspace/cakephp/lib/Cake/Utility/ClassRegistry.php:146
+[15-Jul-2016 02:33:07 UTC] PHP  13. App::load() /home/ubuntu/workspace/cakephp/lib/Cake/Utility/ClassRegistry.php:146
+[15-Jul-2016 08:38:22 UTC] PHP Fatal error:  Call to undefined function view() in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 73
+[15-Jul-2016 08:38:22 UTC] PHP Stack trace:
+[15-Jul-2016 08:38:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[15-Jul-2016 08:38:22 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[15-Jul-2016 08:38:22 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[15-Jul-2016 08:38:22 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[15-Jul-2016 08:38:22 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 08:38:22 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 08:38:52 UTC] PHP Fatal error:  Maximum function nesting level of '256' reached, aborting! in /home/ubuntu/workspace/cakephp/lib/Cake/Model/Model.php on line 1386
+[15-Jul-2016 08:38:52 UTC] PHP Stack trace:
+[15-Jul-2016 08:38:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[15-Jul-2016 08:38:52 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[15-Jul-2016 08:38:52 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[15-Jul-2016 08:38:52 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[15-Jul-2016 08:38:52 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 08:38:52 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 08:38:52 UTC] PHP   7. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP   8. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP   9. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  10. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  11. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  12. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  13. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  14. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  15. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  16. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  17. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  18. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  19. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  20. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  21. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  22. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  23. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  24. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  25. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  26. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  27. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  28. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  29. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  30. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  31. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  32. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  33. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  34. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  35. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  36. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  37. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  38. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  39. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  40. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  41. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  42. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  43. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  44. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  45. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  46. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  47. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  48. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  49. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  50. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  51. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  52. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  53. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  54. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  55. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  56. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  57. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  58. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  59. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  60. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  61. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  62. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  63. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  64. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  65. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  66. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  67. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  68. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  69. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  70. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  71. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  72. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  73. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  74. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  75. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  76. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  77. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  78. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  79. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  80. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  81. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  82. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  83. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  84. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  85. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  86. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  87. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  88. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  89. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  90. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  91. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  92. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  93. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  94. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  95. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  96. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  97. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  98. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP  99. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 100. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 101. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 102. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 103. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 104. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 105. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 106. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 107. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 108. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 109. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 110. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 111. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 112. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 113. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 114. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 115. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 116. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 117. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 118. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 119. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 120. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 121. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 122. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 123. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 124. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 125. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 126. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 127. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 128. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 129. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 130. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 131. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 132. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 133. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 134. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 135. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 136. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 137. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 138. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 139. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 140. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 141. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 142. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 143. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 144. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 145. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 146. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 147. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 148. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 149. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 150. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 151. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 152. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 153. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 154. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 155. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 156. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 157. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 158. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 159. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 160. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 161. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 162. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 163. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 164. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 165. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 166. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 167. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 168. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 169. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 170. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 171. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 172. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 173. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 174. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 175. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 176. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 177. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 178. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 179. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 180. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 181. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 182. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 183. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 184. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 185. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 186. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 187. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 188. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 189. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 190. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 191. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 192. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 193. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 194. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 195. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 196. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 197. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 198. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 199. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 200. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 201. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 202. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 203. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 204. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 205. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 206. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 207. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 208. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 209. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 210. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 211. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 212. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 213. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 214. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 215. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 216. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 217. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 218. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 219. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 220. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 221. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 222. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 223. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 224. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 225. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 226. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 227. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 228. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 229. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 230. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 231. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 232. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 233. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 234. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 235. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 236. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 237. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 238. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 239. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 240. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 241. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 242. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 243. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:38:52 UTC] PHP 244. Post->findById() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:45
+[15-Jul-2016 08:38:52 UTC] PHP 245. Model->__call() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:45
+[15-Jul-2016 08:38:52 UTC] PHP 246. DboSource->query() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Model.php:827
+[15-Jul-2016 08:38:52 UTC] PHP 247. Model->find() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:595
+[15-Jul-2016 08:38:52 UTC] PHP 248. Model->_readDataSource() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Model.php:3003
+[15-Jul-2016 08:38:52 UTC] PHP 249. DboSource->read() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Model.php:3031
+[15-Jul-2016 08:38:52 UTC] PHP 250. DboSource->buildAssociationQuery() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:1111
+[15-Jul-2016 08:38:52 UTC] PHP 251. DboSource->buildStatement() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:1667
+[15-Jul-2016 08:38:52 UTC] PHP 252. DboSource->conditions() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:1936
+[15-Jul-2016 08:38:52 UTC] PHP 253. DboSource->conditionKeysToString() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:2643
+[15-Jul-2016 08:38:52 UTC] PHP 254. DboSource->_parseKey() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:2763
+[15-Jul-2016 08:38:52 UTC] PHP 255. Model->getColumnType() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:2812
+[15-Jul-2016 08:38:52 UTC] PHP 256. Model->schema() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Model.php:1431
+[15-Jul-2016 08:39:01 UTC] PHP Fatal error:  Maximum function nesting level of '256' reached, aborting! in /home/ubuntu/workspace/cakephp/lib/Cake/Model/Model.php on line 1386
+[15-Jul-2016 08:39:01 UTC] PHP Stack trace:
+[15-Jul-2016 08:39:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[15-Jul-2016 08:39:01 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[15-Jul-2016 08:39:01 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[15-Jul-2016 08:39:01 UTC] PHP   4. Controller->invokeAction() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:193
+[15-Jul-2016 08:39:01 UTC] PHP   5. ReflectionMethod->invokeArgs() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 08:39:01 UTC] PHP   6. PostsController->view() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:491
+[15-Jul-2016 08:39:01 UTC] PHP   7. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP   8. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP   9. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  10. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  11. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  12. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  13. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  14. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  15. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  16. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  17. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  18. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  19. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  20. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  21. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  22. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  23. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  24. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  25. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  26. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  27. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  28. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  29. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  30. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  31. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  32. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  33. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  34. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  35. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  36. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  37. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  38. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  39. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  40. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  41. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  42. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  43. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  44. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  45. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  46. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  47. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  48. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  49. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  50. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  51. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  52. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  53. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  54. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  55. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  56. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  57. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  58. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  59. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  60. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  61. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  62. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  63. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  64. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  65. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  66. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  67. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  68. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  69. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  70. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  71. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  72. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  73. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  74. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  75. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  76. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  77. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  78. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  79. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  80. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  81. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  82. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  83. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  84. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  85. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  86. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  87. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  88. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  89. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  90. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  91. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  92. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  93. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  94. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  95. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  96. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  97. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  98. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP  99. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 100. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 101. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 102. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 103. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 104. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 105. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 106. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 107. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 108. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 109. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 110. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 111. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 112. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 113. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 114. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 115. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 116. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 117. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 118. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 119. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 120. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 121. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 122. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 123. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 124. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 125. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 126. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 127. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 128. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 129. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 130. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 131. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 132. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 133. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 134. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 135. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 136. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 137. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 138. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 139. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 140. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 141. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 142. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 143. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 144. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 145. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 146. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 147. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 148. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 149. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 150. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 151. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 152. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 153. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 154. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 155. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 156. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 157. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 158. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 159. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 160. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 161. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 162. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 163. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 164. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 165. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 166. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 167. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 168. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 169. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 170. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 171. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 172. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 173. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 174. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 175. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 176. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 177. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 178. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 179. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 180. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 181. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 182. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 183. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 184. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 185. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 186. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 187. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 188. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 189. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 190. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 191. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 192. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 193. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 194. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 195. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 196. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 197. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 198. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 199. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 200. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 201. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 202. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 203. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 204. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 205. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 206. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 207. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 208. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 209. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 210. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 211. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 212. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 213. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 214. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 215. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 216. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 217. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 218. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 219. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 220. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 221. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 222. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 223. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 224. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 225. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 226. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 227. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 228. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 229. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 230. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 231. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 232. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 233. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 234. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 235. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 236. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 237. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 238. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 239. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 240. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 241. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 242. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 243. PostsController->view() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:73
+[15-Jul-2016 08:39:01 UTC] PHP 244. Post->findById() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:45
+[15-Jul-2016 08:39:01 UTC] PHP 245. Model->__call() /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php:45
+[15-Jul-2016 08:39:01 UTC] PHP 246. DboSource->query() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Model.php:827
+[15-Jul-2016 08:39:01 UTC] PHP 247. Model->find() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:595
+[15-Jul-2016 08:39:01 UTC] PHP 248. Model->_readDataSource() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Model.php:3003
+[15-Jul-2016 08:39:01 UTC] PHP 249. DboSource->read() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Model.php:3031
+[15-Jul-2016 08:39:01 UTC] PHP 250. DboSource->buildAssociationQuery() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:1111
+[15-Jul-2016 08:39:01 UTC] PHP 251. DboSource->buildStatement() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:1667
+[15-Jul-2016 08:39:01 UTC] PHP 252. DboSource->conditions() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:1936
+[15-Jul-2016 08:39:01 UTC] PHP 253. DboSource->conditionKeysToString() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:2643
+[15-Jul-2016 08:39:01 UTC] PHP 254. DboSource->_parseKey() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:2763
+[15-Jul-2016 08:39:01 UTC] PHP 255. Model->getColumnType() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Datasource/DboSource.php:2812
+[15-Jul-2016 08:39:01 UTC] PHP 256. Model->schema() /home/ubuntu/workspace/cakephp/lib/Cake/Model/Model.php:1431
+[17-Jul-2016 07:13:34 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/UsersController.php on line 9
+[17-Jul-2016 07:13:34 UTC] PHP Stack trace:
+[17-Jul-2016 07:13:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[17-Jul-2016 07:13:34 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[17-Jul-2016 07:13:34 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[17-Jul-2016 07:13:34 UTC] PHP   4. Controller->startupProcess() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:189
+[17-Jul-2016 07:13:34 UTC] PHP   5. CakeEventManager->dispatch() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:677
+[17-Jul-2016 07:13:34 UTC] PHP   6. call_user_func:{/home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243}() /home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243
+[17-Jul-2016 07:13:34 UTC] PHP   7. UsersController->beforeFilter() /home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243
+[17-Jul-2016 07:14:23 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/UsersController.php on line 9
+[17-Jul-2016 07:14:23 UTC] PHP Stack trace:
+[17-Jul-2016 07:14:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[17-Jul-2016 07:14:23 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[17-Jul-2016 07:14:23 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[17-Jul-2016 07:14:23 UTC] PHP   4. Controller->startupProcess() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:189
+[17-Jul-2016 07:14:23 UTC] PHP   5. CakeEventManager->dispatch() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:677
+[17-Jul-2016 07:14:23 UTC] PHP   6. call_user_func:{/home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243}() /home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243
+[17-Jul-2016 07:14:23 UTC] PHP   7. UsersController->beforeFilter() /home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243
+[17-Jul-2016 07:14:27 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/ubuntu/workspace/cakephp/app/Controller/UsersController.php on line 9
+[17-Jul-2016 07:14:27 UTC] PHP Stack trace:
+[17-Jul-2016 07:14:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[17-Jul-2016 07:14:27 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[17-Jul-2016 07:14:27 UTC] PHP   3. Dispatcher->_invoke() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:167
+[17-Jul-2016 07:14:27 UTC] PHP   4. Controller->startupProcess() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:189
+[17-Jul-2016 07:14:27 UTC] PHP   5. CakeEventManager->dispatch() /home/ubuntu/workspace/cakephp/lib/Cake/Controller/Controller.php:677
+[17-Jul-2016 07:14:27 UTC] PHP   6. call_user_func:{/home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243}() /home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243
+[17-Jul-2016 07:14:27 UTC] PHP   7. UsersController->beforeFilter() /home/ubuntu/workspace/cakephp/lib/Cake/Event/CakeEventManager.php:243
+[17-Jul-2016 14:15:56 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/ubuntu/workspace/cakephp/app/Controller/UsersController.php on line 98
+[17-Jul-2016 14:15:56 UTC] PHP Stack trace:
+[17-Jul-2016 14:15:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[17-Jul-2016 14:15:56 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[17-Jul-2016 14:15:56 UTC] PHP   3. Dispatcher->_getController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:158
+[17-Jul-2016 14:15:56 UTC] PHP   4. Dispatcher->_loadController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:235
+[17-Jul-2016 14:15:56 UTC] PHP   5. class_exists() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[17-Jul-2016 14:15:56 UTC] PHP   6. spl_autoload_call() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[17-Jul-2016 14:15:56 UTC] PHP   7. App::load() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[17-Jul-2016 16:54:37 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/ubuntu/workspace/cakephp/app/Controller/PostsController.php on line 73
+[17-Jul-2016 16:54:37 UTC] PHP Stack trace:
+[17-Jul-2016 16:54:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cakephp/app/webroot/index.php:0
+[17-Jul-2016 16:54:37 UTC] PHP   2. Dispatcher->dispatch() /home/ubuntu/workspace/cakephp/app/webroot/index.php:111
+[17-Jul-2016 16:54:37 UTC] PHP   3. Dispatcher->_getController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:158
+[17-Jul-2016 16:54:37 UTC] PHP   4. Dispatcher->_loadController() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:235
+[17-Jul-2016 16:54:37 UTC] PHP   5. class_exists() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[17-Jul-2016 16:54:37 UTC] PHP   6. spl_autoload_call() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
+[17-Jul-2016 16:54:37 UTC] PHP   7. App::load() /home/ubuntu/workspace/cakephp/lib/Cake/Routing/Dispatcher.php:266
